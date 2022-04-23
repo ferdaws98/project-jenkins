@@ -15,6 +15,7 @@ pipeline {
          steps{
             echo 'deploying the application..'
          }
+         123
       }
    }
 }
