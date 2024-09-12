@@ -14,6 +14,7 @@ pipeline {
        stage("test"){
          steps{
             echo 'testing the application..'
+            echo 'hello'
          }
       }
        stage("deploy"){
@@ -24,6 +25,7 @@ pipeline {
      
          
       }
+      //change123
    }
    
    ///jhhjgvjgj
